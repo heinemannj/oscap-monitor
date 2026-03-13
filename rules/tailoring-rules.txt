@@ -1,0 +1,7 @@
+xccdf_org.ssgproject.content_rule_partition_for_home;unselect;
+xccdf_org.ssgproject.content_rule_partition_for_var;unselect;
+xccdf_org.ssgproject.content_rule_partition_for_var_log;unselect;
+xccdf_org.ssgproject.content_rule_partition_for_var_log_audit;unselect;
+xccdf_org.ssgproject.content_rule_sshd_enable_warning_banner_net;unselect;
+xccdf_org.ssgproject.content_rule_encrypt_partitions;unselect;
+xccdf_org.ssgproject.content_rule_banner_etc_profiled_ssh_confirm;unselect;

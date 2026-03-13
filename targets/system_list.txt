@@ -1,0 +1,9 @@
+#
+#HostName_[1];SSHUser_[2];SSH_Port_[3];Profile_[4];
+#
+esphome;sysadm;22;xccdf_org.ssgproject.content_profile_standard;
+#eebus-controller;sysadm;22;xccdf_org.ssgproject.content_profile_standard;
+#eebus-controller-1;sysadm;22;xccdf_org.ssgproject.content_profile_standard;
+#plex;sysadm;22;xccdf_org.ssgproject.content_profile_stig;
+#plex;sysadm;22;xccdf_org.ssgproject.content_profile_cis_level1_server;
+#eebus-controller;sysadm;22;xccdf_org.ssgproject.content_profile_cis_level1_server;
